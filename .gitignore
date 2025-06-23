@@ -1,5 +1,8 @@
 data/Forestry_Service_Requests_20250516.csv
-data/Zones_Year_Assignment.csv
-data/2023Stocking_2010CT_HVI.csv
-data/Stocking_CT_HVI_2015_shp
+# data/Zones_Year_Assignment.csv
+# data/2023Stocking_2010CT_HVI.csv
+# data/Stocking_CT_HVI_2015_shp
+# data/transition_phases
+# data/Zone_shp
+# data/CT_NTP_Zone_Key.csv
 figures/*
